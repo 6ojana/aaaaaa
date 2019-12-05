@@ -1,0 +1,9 @@
+body{background-color: lightcyan;}
+h1{font-size: 30px;
+color: #A0EDB6;}
+h2{font-size:20px;
+color: forestgreen;}
+.big{font-size: 50px;}
+.pig{text-transform: uppercase;}
+.big.pig{color: red;}
+h1 span{color: blue;}
